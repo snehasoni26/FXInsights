@@ -8,8 +8,6 @@ Published in *AI Technologies for Information Systems and Management Science* (L
 
 ---
 
----
-
 ##  Overview
 
 Accurate forecasting of forex rates poses challenges due to complex trends and nonlinear dependencies. To address this, our hybrid model:
@@ -34,5 +32,4 @@ demonstrating superior accuracy over traditional forecasting methods :contentRef
 
 ---
 
-##  Repository Structure
 
