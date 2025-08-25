@@ -1,9 +1,12 @@
 # Enhancing Forex Market Predictions with a Hybrid Prophet-LSTM Model
 
-This repository is about the **Hybrid Prophet-LSTM Model** for predicting foreign exchange (forex) rates, as presented in our recently published research paper:
-Link to the repo: https://link.springer.com/chapter/10.1007/978-3-031-95017-9_19
-**Enhancing Forex Market Predictions with a Hybrid Prophet-LSTM Model**  
-— *First Online: 07 August 2025*, published in _AI Technologies for Information Systems and Management Science_ (Lecture Notes in Networks and Systems, Vol. 1479) :contentReference[oaicite:0]{index=0}  
+This repository is about the **Hybrid Prophet-LSTM Model** for predicting foreign exchange (forex) rates, as presented in our recently published research paper:  
+
+ **Research Paper**: [Enhancing Forex Market Predictions with a Hybrid Prophet-LSTM Model](https://link.springer.com/chapter/10.1007/978-3-031-95017-9_19)  
+— *First Online: 07 August 2025*  
+Published in *AI Technologies for Information Systems and Management Science* (Lecture Notes in Networks and Systems, Vol. 1479)  
+
+---
 
 ---
 
